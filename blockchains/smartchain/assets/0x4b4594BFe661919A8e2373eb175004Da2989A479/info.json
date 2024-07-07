@@ -1,0 +1,40 @@
+{
+    "name": "A.I Genesis",
+    "type": "BEP20",
+    "symbol": "AIG",
+    "decimals": 18,
+    "website": "https://aigtoken.org/",
+    "description": "Artificial Intelligence Token.",
+    "explorer": "https://bscscan.com/token/0x4b4594BFe661919A8e2373eb175004Da2989A479",
+    "status": "active",
+    "id": "0x4b4594BFe661919A8e2373eb175004Da2989A479",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://aigtoken.org/whitepaper/"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/agentemonarca/Aigtoken/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/es/currencies/ai-genesis/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/aigenesis"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/user/aigenesis"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/aigenesis"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+}

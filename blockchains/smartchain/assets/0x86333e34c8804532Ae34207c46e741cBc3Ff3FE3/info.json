@@ -1,0 +1,40 @@
+{
+    "name": "CryptoPeso",
+    "type": "BEP20",
+    "symbol": "CRP",
+    "decimals": 18,
+    "website": "https://www.cryptopeso.co/",
+    "description": "Artificial Intelligence Token.",
+    "explorer": "https://bscscan.com/address/0x86333e34c8804532ae34207c46e741cbc3ff3fe3",
+    "status": "active",
+    "id": "0x86333e34c8804532Ae34207c46e741cBc3Ff3FE3",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://doc.cryptopeso.co/"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/agentemonarca/Aigtoken/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": ""
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/crypto__peso"
+        },
+        {
+            "name": "reddit",
+            "url": ""
+        },
+        {
+            "name": "facebook",
+            "url": "https://t.me/CRP_BSC"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+}
